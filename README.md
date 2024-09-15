@@ -1,1 +1,0 @@
-# JupyterProgram2024
